@@ -5,7 +5,7 @@
 
 Takes each character within my name and prints out their ASCII decimal value
 
-# Build a number-base converter supporting binary, decimal, octal, and hexadecimal
+# Number-base converter that supports binary, decimal, octal, and hexadecimal values
 
 Choose a base of binary, decimal, octal, or hexadecimal values, input that value and output the conversion from that base and value to the other three values.
 
